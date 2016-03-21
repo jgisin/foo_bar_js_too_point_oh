@@ -147,14 +147,3 @@ Inject these dependencies into your modules, via dependency injection.
 
 #### **BONUS** (Only if you complete the above!)
 1. Implement a version of the game where the board size iterates up by 1 after every 100 points.
-
-
-
-
-
-
-
-
-
-
-
